@@ -58,6 +58,8 @@ Projeto desenvolvido no **ChatGPT Work** para apoiar a elaboração de propostas
 - **Competências mobilizadas:** definição de processos, organização de conhecimento, engenharia de prompt e aplicação de IA a necessidades de negócio.
 - **Estado:** projeto demonstrativo; a descrição apresenta a proposta de funcionamento, sem métricas de desempenho ou arquitetura técnica validada publicadas.
 
+🔗 [Veja o ARI Deal — conteúdo compartilhado no ChatGPT](https://chatgpt.com/s/cx_6abb06fc90b08191bb13fef7a8b14c7d)
+
 ## Experiências e iniciativas
 
 **Gestão por indicadores na educação**  
