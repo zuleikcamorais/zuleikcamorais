@@ -1,16 +1,62 @@
-## Hi there 👋
+# Olá, sou Zuleica Morais 👋
 
-<!--
-**zuleikcamorais/zuleikcamorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Educação • Gestão • Dados • Inteligência Artificial Aplicada
 
-Here are some ideas to get you started:
+Conecto minha experiência em educação e liderança ao estudo de tecnologia e dados para transformar informações em decisões e melhorias de processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/)
+
+## Sobre mim
+
+Sou professora com experiência em vice-direção, coordenação pedagógica, gestão de pessoas e acompanhamento de indicadores educacionais. Minha transição para tecnologia valoriza essa bagagem: compreender problemas, organizar processos, desenvolver equipes e apoiar decisões com evidências.
+
+Tenho formação em Educação Física e Tecnologia da Informação e desenvolvo minha trajetória em Ciência de Dados. Meu foco de atuação e aprendizagem reúne gestão de projetos, análise de dados e uso de IA em educação e gestão.
+
+## O que trago para os projetos
+
+- **Gestão de pessoas e desenvolvimento:** liderança, formação, comunicação e acompanhamento de desempenho.
+- **Gestão por indicadores:** organização de informações, acompanhamento de metas e planejamento de intervenções.
+- **Conhecimento do contexto educacional:** identificação de necessidades e construção de soluções úteis para equipes e estudantes.
+- **Aprendizado contínuo:** aplicação prática, documentação e melhoria a partir de feedback.
+
+## Competências e ferramentas
+
+| Área | Experiência e estágio de desenvolvimento |
+| --- | --- |
+| Educação e gestão | Experiência em liderança escolar, coordenação, formação e melhoria de processos |
+| Excel | Nível intermediário; tabelas dinâmicas e funções condicionais |
+| Power BI | Familiaridade com a ferramenta; aprofundamento em análise e visualização |
+| SQL | Conhecimentos básicos em consultas e filtros |
+| Python | Conhecimentos básicos em desenvolvimento |
+| Git e GitHub | Aprendizado de versionamento e organização de portfólio |
+| Google Cloud | Trilha Academy Cloud Computing concluída e prática em laboratórios |
+| IA generativa | Aplicação em planejamento, pesquisa, produção de materiais e apoio à análise, com revisão crítica |
+
+## Experiências e iniciativas
+
+**Gestão por indicadores na educação**  
+Atuação no acompanhamento de frequência, aprendizagem e uso de plataformas educacionais, conectando diagnóstico, prioridades e planos de ação.
+
+**Escola de Gestão**  
+Projeto autoral organizado em cinco eixos: liderança; gestão pedagógica; resultados; governança; clima e proteção.
+
+**Formação e compartilhamento de conhecimento**  
+Experiência com formação de equipes, mentoria e produção de materiais para apoiar o desenvolvimento profissional.
+
+*Esta seção apresenta experiências e iniciativas. Os materiais e repositórios técnicos serão acrescentados conforme sua documentação e publicação.*
+
+## Aprendizado atual e comunidades
+
+- Ciência de Dados: fortalecimento dos fundamentos e aplicação em problemas reais.
+- Power BI, Python e SQL: evolução por meio de prática e projetos.
+- Visão computacional e inteligência artificial aplicada.
+- **DIO Campus Expert — turma 17:** desenvolvimento de liderança, comunicação e portfólio.
+- **Microsoft Student Ambassadors:** participação na comunidade estudantil de tecnologia.
+
+## Vamos conversar
+
+Tenho interesse em projetos que conectem **educação, gestão, dados e IA**, com atenção à utilidade, acessibilidade e impacto sobre as pessoas.
+
+📌 [LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/)
+
+> Lifelong Learning: aprender, aplicar, compartilhar e melhorar.
