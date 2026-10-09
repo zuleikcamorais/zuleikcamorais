@@ -32,6 +32,22 @@ Tenho formação em Educação Física e Tecnologia da Informação e desenvolvo
 | Google Cloud | Trilha Academy Cloud Computing concluída e prática em laboratórios |
 | IA generativa | Aplicação em planejamento, pesquisa, produção de materiais e apoio à análise, com revisão crítica |
 
+## Projeto em destaque
+
+### 📰 ARI News — Notícias estratégicas com IA
+
+Protótipo de portal de notícias desenvolvido com **Google Opal** na **Aula 1 da Imersão ONE AI for Business, da Alura**, para pesquisar, organizar e apresentar informações de forma automatizada.
+
+- **Contexto:** atividade construída a partir da proposta e das orientações da aula.
+- **Minha contribuição:** adaptação da solução aos meus interesses e ampliação da quantidade de resultados apresentados, seguindo o desafio da imersão.
+- **Conceitos explorados:** engenharia de prompt, agentes de IA, pipelines de automação e organização de informações.
+- **Aprendizado:** compreender a lógica da ferramenta, testar e adaptar uma solução aplicada a contextos de negócios.
+- **Estado:** protótipo educacional hospedado no Google Opal. Notícias e informações produzidas com apoio de IA precisam ser conferidas nas fontes originais.
+
+🔗 [Conheça o ARI News no Google Opal](https://opal.google/app/1HUEzwX7zNMMo5xu5WRL5pJ6vA3ctUio5)
+
+*O acesso pode depender de autenticação e das permissões de compartilhamento do Google Opal. O fluxo está hospedado na plataforma; este perfil apresenta a descrição e o link da aplicação.*
+
 ## Experiências e iniciativas
 
 **Gestão por indicadores na educação**  
