@@ -60,6 +60,18 @@ Projeto desenvolvido no **ChatGPT Work** para apoiar a elaboração de propostas
 
 🔗 [Veja o ARI Deal — conteúdo compartilhado no ChatGPT](https://chatgpt.com/s/cx_6abb06fc90b08191bb13fef7a8b14c7d)
 
+### ⚙️ ARI Flow — Automação de e-mails com IA
+
+Fluxo desenvolvido durante a **imersão de IA da Alura**, integrando **Make.com, Gmail, Google Drive e Gemini** para receber e classificar e-mails, consultar uma base de conhecimento e produzir respostas conforme regras previamente definidas.
+
+- **Objetivo:** apoiar o tratamento de e-mails por meio de um processo automatizado orientado por informações e regras de negócio.
+- **Etapas descritas:** recebimento do e-mail → classificação → consulta à base de conhecimento → geração da resposta.
+- **Competências exploradas:** integração de serviços, desenho de fluxos, engenharia de prompt e organização de processos com IA.
+- **Aprendizado:** compreender como as integrações colaboram e distinguir o uso de IA como apoio da execução de etapas em um fluxo automatizado.
+- **Estado:** projeto de aprendizagem; o cenário compartilhado apresenta o fluxo, sem métricas de desempenho publicadas.
+
+🔗 [Conheça o cenário compartilhado do ARI Flow no Make](https://us2.make.com/public/shared-scenario/TgTZKFxQ0M6/ari-flow-imersao-ia)
+
 ## Experiências e iniciativas
 
 **Gestão por indicadores na educação**  
