@@ -32,7 +32,7 @@ Tenho formação em Educação Física e Tecnologia da Informação e desenvolvo
 | Google Cloud | Trilha Academy Cloud Computing concluída e prática em laboratórios |
 | IA generativa | Aplicação em planejamento, pesquisa, produção de materiais e apoio à análise, com revisão crítica |
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### 📰 ARI News — Notícias estratégicas com IA
 
@@ -47,6 +47,16 @@ Protótipo de portal de notícias desenvolvido com **Google Opal** na **Aula 1 d
 🔗 [Conheça o ARI News no Google Opal](https://opal.google/app/1HUEzwX7zNMMo5xu5WRL5pJ6vA3ctUio5)
 
 *O acesso pode depender de autenticação e das permissões de compartilhamento do Google Opal. O fluxo está hospedado na plataforma; este perfil apresenta a descrição e o link da aplicação.*
+
+### 🔹 ARI Deal — Assistente comercial com IA
+
+Projeto desenvolvido no **ChatGPT Work** para apoiar a elaboração de propostas comerciais a partir de documentos, catálogo de serviços e identidade da empresa.
+
+- **Objetivo:** organizar informações de negócio e apoiar a produção de propostas alinhadas ao contexto da empresa.
+- **Estrutura descrita:** processo de atendimento, contexto de trabalho, memória e regras de negócio.
+- **Abordagem:** consulta a materiais de referência para orientar a geração de conteúdo comercial.
+- **Competências mobilizadas:** definição de processos, organização de conhecimento, engenharia de prompt e aplicação de IA a necessidades de negócio.
+- **Estado:** projeto demonstrativo; a descrição apresenta a proposta de funcionamento, sem métricas de desempenho ou arquitetura técnica validada publicadas.
 
 ## Experiências e iniciativas
 
