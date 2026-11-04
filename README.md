@@ -1,102 +1,82 @@
-# Olá, sou Zuleica Morais 👋
+# Zuleica Morais Firmino
+## Gestão de projetos, dados e inteligência artificial aplicada
 
-### Educação • Gestão • Dados • Inteligência Artificial Aplicada
+Sou bacharela em **Ciência de Dados e Tecnologia da Informação pela UNIVESP**, com mais de 20 anos na educação pública e gestão de projetos. Atuo no apoio ao diretor, à vice-diretora e ao coordenador, organizando demandas, processos, documentação e acompanhamento de indicadores.
 
-Conecto minha experiência em educação e liderança ao estudo de tecnologia e dados para transformar informações em decisões e melhorias de processos.
+Desenvolvi projetos práticos com IA para pesquisa de notícias, propostas comerciais e organização de e-mails. Meu foco é conectar necessidades das pessoas, planejamento e tecnologia a soluções úteis, com revisão humana.
 
-[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/)
+[LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/) · [Portfólio visual no Canva](https://www.canva.com/d/QP5gO24ASiRbwgW)
 
-## Sobre mim
+## Projetos de IA em destaque
 
-Sou professora com experiência em vice-direção, coordenação pedagógica, gestão de pessoas e acompanhamento de indicadores educacionais. Minha transição para tecnologia valoriza essa bagagem: compreender problemas, organizar processos, desenvolver equipes e apoiar decisões com evidências.
+Os três ARIs foram construídos em atividades da formação Alura/ONE. A documentação apresenta objetivo, ferramentas, minha contribuição e demonstração disponível.
 
-Tenho formação em Educação Física e Tecnologia da Informação e desenvolvo minha trajetória em Ciência de Dados. Meu foco de atuação e aprendizagem reúne gestão de projetos, análise de dados e uso de IA em educação e gestão.
+| Projeto | Aplicação e ferramentas | Documentação |
+| --- | --- | --- |
+| **ARI News** | Pesquisa e organização de notícias com fontes no Google Opal; solução personalizada com ampliação dos resultados. | [Ver projeto](projetos/ari-news/README.md) |
+| **ARI Deal** | Assistente para propostas e orçamentos em simulação comercial no ChatGPT Work. | [Ver projeto](projetos/ari-deal/README.md) |
+| **ARI Flow** | Fluxo de e-mails com Make, Gmail, Google Drive e Gemini. | [Ver projeto](projetos/ari-flow/README.md) |
 
-## O que trago para os projetos
+### TCC em BI educacional — UNIVESP
+Trabalho coletivo sobre o uso de Business Intelligence na tomada de decisões da rede estadual paulista. Minha contribuição reuniu levantamento de necessidades da escola, articulação com a gestão, análise de indicadores e revisão e consolidação do trabalho em equipe.
 
-- **Gestão de pessoas e desenvolvimento:** liderança, formação, comunicação e acompanhamento de desempenho.
-- **Gestão por indicadores:** organização de informações, acompanhamento de metas e planejamento de intervenções.
-- **Conhecimento do contexto educacional:** identificação de necessidades e construção de soluções úteis para equipes e estudantes.
-- **Aprendizado contínuo:** aplicação prática, documentação e melhoria a partir de feedback.
+### Visão computacional — detecção de placas
+[Repositório do Grupo C — Arte dos Dados](https://github.com/zuleikcamorais/visao-computacional-placas-grupo-c).
+
+Projeto coletivo de aprendizagem em desenvolvimento. O repositório registra exploração de imagens e validação de recortes com Python e Google Colab. Treinamento e avaliação do modelo fazem parte das próximas etapas.
+
+## Experiência em gestão e impacto social
+
+- **PEB II — Apoio à gestão | EE Profª Maria Pires | 2º semestre de 2026 até o presente:** apoio ao diretor, à vice-diretora e ao coordenador; organização de demandas, documentação, indicadores e ações; suporte a plataformas e recursos tecnológicos.
+- **Gestão – Vice-Diretora | EE Profª Martha Figueira Netto da Silva | janeiro a julho de 2026:** planejamento, operação escolar e formação de professores sobre IA.
+- **Gestora de projetos de leitura | Sala de Leitura — PEI Palmira Grassiotto | 2021–2025:** planejamento, execução e acompanhamento de ações; gestão do projeto autoral **Embaixadores da Sala de Leitura**, com protagonismo estudantil. **Embaixadores 360°** é uma proposta de ampliação tecnológica.
+- **Gestora local do Programa Escola da Família | Governo do Estado de São Paulo | novembro de 2004 a fevereiro de 2009:** coordenação de universitários bolsistas, projetos, recursos e parcerias para atendimento à comunidade.
+
+Vínculo com a Secretaria da Educação do Estado de São Paulo desde 2005. A experiência no Programa Escola da Família está identificada com seu período próprio.
+
+### Outras iniciativas
+**Escola de Gestão:** projeto autoral organizado em cinco eixos — liderança, gestão pedagógica, resultados, governança, clima e proteção.
+
+**Formação e compartilhamento de conhecimento:** experiência com formação de equipes, mentoria e produção de materiais para apoiar o desenvolvimento profissional.
+
+## Formação acadêmica
+
+- **Ciência de Dados — Bacharelado | UNIVESP | Concluído em 2026.**
+- **Tecnologia da Informação com ênfase em Análise de Dados — Bacharelado | UNIVESP | 2025.**
+- Administração e Marketing — Pós-graduação | Universidade Gama Filho | 2006.
+- Educação Física — Licenciatura | FEFISA | 2002.
+
+## Alura e Oracle Next Education
+**ONE AI for Business — G11**
+
+1. **Fase 1 — Agentes de IA para Negócios:** atividades concluídas com os projetos ARI News, ARI Deal e ARI Flow.
+2. **Fase 2 — Trilhas concluídas:** Mindset e Estratégia; Dados para Negócios; Governança, Risco e Ética.
+3. **Fase 3 — Business AI Builder:** **IA para Finanças e Operações concluído em novembro de 2026**; challenge prático em desenvolvimento.
+
+O challenge de IA para negócios utiliza uma empresa simulada e contempla diagnóstico, AI Canvas, matriz esforço × impacto, governança e proposta para Finanças e Operações em relatório executivo. É um projeto em desenvolvimento, separado dos três ARIs já construídos.
+
+## Google Cloud
+**Google Cloud Computing Foundations:** trilha de aprendizagem concluída e quatro skill badges. Formação separada do programa Alura/Oracle ONE.
 
 ## Competências e ferramentas
 
-| Área | Experiência e estágio de desenvolvimento |
+| Área | Experiência |
 | --- | --- |
-| Educação e gestão | Experiência em liderança escolar, coordenação, formação e melhoria de processos |
-| Excel | Nível intermediário; tabelas dinâmicas e funções condicionais |
-| Power BI | Familiaridade com a ferramenta; aprofundamento em análise e visualização |
-| SQL | Conhecimentos básicos em consultas e filtros |
-| Python | Conhecimentos básicos em desenvolvimento |
-| Git e GitHub | Aprendizado de versionamento e organização de portfólio |
-| Google Cloud | Trilha Academy Cloud Computing concluída e prática em laboratórios |
-| IA generativa | Aplicação em planejamento, pesquisa, produção de materiais e apoio à análise, com revisão crítica |
+| Gestão | Planejamento, gestão de projetos, organização de processos, formação e acompanhamento de indicadores |
+| IA generativa | Estruturação de prompts, pesquisa, documentação e projetos formativos com revisão humana |
+| Google Opal | Construção e personalização do ARI News |
+| Make, Gmail, Drive e Gemini | Integração de ferramentas no projeto formativo ARI Flow |
+| Excel | Intermediário; tabelas dinâmicas e funções condicionais |
+| Power BI | Familiaridade; aprofundamento em análise e visualização |
+| Python, SQL e GitHub | Conhecimentos básicos, prática e documentação de projetos |
+| Google Workspace e Canva | Organização de informações e produção de materiais |
 
-## Projetos em destaque
+## Interesses profissionais
+Planejamento estratégico, gestão de projetos e operações, dados para decisão, governança e impacto social. Interesse na residência corporativa **AI Builder**, com **Planejamento Estratégico** como primeira área e **Diversidade e Impacto Social** como segunda.
 
-### 📰 ARI News — Notícias estratégicas com IA
+**Disponibilidade:** 30 horas semanais, 6 horas por dia.  
+**Idiomas:** português nativo; inglês EF SET C1 geral, com expressão oral B1.
 
-Protótipo de portal de notícias desenvolvido com **Google Opal** na **Aula 1 da Imersão ONE AI for Business, da Alura**, para pesquisar, organizar e apresentar informações de forma automatizada.
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/)
 
-- **Contexto:** atividade construída a partir da proposta e das orientações da aula.
-- **Minha contribuição:** adaptação da solução aos meus interesses e ampliação da quantidade de resultados apresentados, seguindo o desafio da imersão.
-- **Conceitos explorados:** engenharia de prompt, agentes de IA, pipelines de automação e organização de informações.
-- **Aprendizado:** compreender a lógica da ferramenta, testar e adaptar uma solução aplicada a contextos de negócios.
-- **Estado:** protótipo educacional hospedado no Google Opal. Notícias e informações produzidas com apoio de IA precisam ser conferidas nas fontes originais.
-
-🔗 [Conheça o ARI News no Google Opal](https://opal.google/app/1HUEzwX7zNMMo5xu5WRL5pJ6vA3ctUio5)
-
-*O acesso pode depender de autenticação e das permissões de compartilhamento do Google Opal. O fluxo está hospedado na plataforma; este perfil apresenta a descrição e o link da aplicação.*
-
-### 🔹 ARI Deal — Assistente comercial com IA
-
-Projeto desenvolvido no **ChatGPT Work** para apoiar a elaboração de propostas comerciais a partir de documentos, catálogo de serviços e identidade da empresa.
-
-- **Objetivo:** organizar informações de negócio e apoiar a produção de propostas alinhadas ao contexto da empresa.
-- **Estrutura descrita:** processo de atendimento, contexto de trabalho, memória e regras de negócio.
-- **Abordagem:** consulta a materiais de referência para orientar a geração de conteúdo comercial.
-- **Competências mobilizadas:** definição de processos, organização de conhecimento, engenharia de prompt e aplicação de IA a necessidades de negócio.
-- **Estado:** projeto demonstrativo; a descrição apresenta a proposta de funcionamento, sem métricas de desempenho ou arquitetura técnica validada publicadas.
-
-🔗 [Veja o ARI Deal — conteúdo compartilhado no ChatGPT](https://chatgpt.com/s/cx_6abb06fc90b08191bb13fef7a8b14c7d)
-
-### ⚙️ ARI Flow — Automação de e-mails com IA
-
-Fluxo desenvolvido durante a **imersão de IA da Alura**, integrando **Make.com, Gmail, Google Drive e Gemini** para receber e classificar e-mails, consultar uma base de conhecimento e produzir respostas conforme regras previamente definidas.
-
-- **Objetivo:** apoiar o tratamento de e-mails por meio de um processo automatizado orientado por informações e regras de negócio.
-- **Etapas descritas:** recebimento do e-mail → classificação → consulta à base de conhecimento → geração da resposta.
-- **Competências exploradas:** integração de serviços, desenho de fluxos, engenharia de prompt e organização de processos com IA.
-- **Aprendizado:** compreender como as integrações colaboram e distinguir o uso de IA como apoio da execução de etapas em um fluxo automatizado.
-- **Estado:** projeto de aprendizagem; o cenário compartilhado apresenta o fluxo, sem métricas de desempenho publicadas.
-
-🔗 [Conheça o cenário compartilhado do ARI Flow no Make](https://us2.make.com/public/shared-scenario/TgTZKFxQ0M6/ari-flow-imersao-ia)
-
-## Experiências e iniciativas
-
-**Gestão por indicadores na educação**  
-Atuação no acompanhamento de frequência, aprendizagem e uso de plataformas educacionais, conectando diagnóstico, prioridades e planos de ação.
-
-**Escola de Gestão**  
-Projeto autoral organizado em cinco eixos: liderança; gestão pedagógica; resultados; governança; clima e proteção.
-
-**Formação e compartilhamento de conhecimento**  
-Experiência com formação de equipes, mentoria e produção de materiais para apoiar o desenvolvimento profissional.
-
-*Esta seção apresenta experiências e iniciativas. Os materiais e repositórios técnicos serão acrescentados conforme sua documentação e publicação.*
-
-## Aprendizado atual e comunidades
-
-- Ciência de Dados: fortalecimento dos fundamentos e aplicação em problemas reais.
-- Power BI, Python e SQL: evolução por meio de prática e projetos.
-- Visão computacional e inteligência artificial aplicada.
-- **DIO Campus Expert — turma 17:** desenvolvimento de liderança, comunicação e portfólio.
-- **Microsoft Student Ambassadors:** participação na comunidade estudantil de tecnologia.
-
-## Vamos conversar
-
-Tenho interesse em projetos que conectem **educação, gestão, dados e IA**, com atenção à utilidade, acessibilidade e impacto sobre as pessoas.
-
-📌 [LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/)
-
-> Lifelong Learning: aprender, aplicar, compartilhar e melhorar.
+Atualizado em 4 de novembro de 2026.
