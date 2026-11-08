@@ -9,6 +9,18 @@ Desenvolvi projetos práticos com IA para pesquisa de notícias, propostas comer
 
 ## Projetos de IA em destaque
 
+### 🏆 Repô — equipe campeã do Meetup Challenge da {reprograma}
+
+Bibliotecária digital com IA para apoiar alunas e egressas na consulta, revisão e aplicação dos conteúdos da formação. Projeto coletivo apresentado em **7 de novembro de 2026**, com experiência de consulta e prática com feedback em um **protótipo demonstrativo com dados fictícios**.
+
+Participei do squad de Dados e da equipe multidisciplinar, contribuindo com a perspectiva de educadora e aluna de tecnologia para a construção e apresentação da solução.
+
+**Equipe:** Zuleica Morais Firmino, Karen Costa, Alexsandra Moura, Tatiana Dinato e Mirasnava.
+
+[Conheça o projeto e minha participação](projetos/repo/README.md) · [Acesse a demonstração](https://reporeprograma.vercel.app/)
+
+### Agentes de IA — Alura/ONE
+
 Os três ARIs foram construídos em atividades da formação Alura/ONE. A documentação apresenta objetivo, ferramentas, minha contribuição e demonstração disponível.
 
 | Projeto | Aplicação e ferramentas | Documentação |
@@ -79,4 +91,4 @@ Planejamento estratégico, gestão de projetos e operações, dados para decisã
 
 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/)
 
-Atualizado em 4 de novembro de 2026.
+Atualizado em 8 de novembro de 2026.
