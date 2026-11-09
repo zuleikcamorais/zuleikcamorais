@@ -5,7 +5,7 @@ Sou bacharela em **Ciência de Dados e Tecnologia da Informação pela UNIVESP**
 
 Desenvolvi projetos práticos com IA para pesquisa de notícias, propostas comerciais e organização de e-mails. Meu foco é conectar necessidades das pessoas, planejamento e tecnologia a soluções úteis, com revisão humana.
 
-[LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/) · [Portfólio visual no Canva](https://www.canva.com/d/QP5gO24ASiRbwgW)
+[LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/) · [Portfólio visual no Canva](https://canva.link/dqd0gyy0xuxzk41)
 
 ## Projetos de IA em destaque
 
