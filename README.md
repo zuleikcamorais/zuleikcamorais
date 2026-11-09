@@ -32,6 +32,12 @@ Os três ARIs foram construídos em atividades da formação Alura/ONE. A docume
 ### TCC em BI educacional — UNIVESP
 Trabalho coletivo sobre o uso de Business Intelligence na tomada de decisões da rede estadual paulista. Minha contribuição reuniu levantamento de necessidades da escola, articulação com a gestão, análise de indicadores e revisão e consolidação do trabalho em equipe.
 
+[📄 Veja a apresentação do TCC em PDF — 30 páginas](projetos/TCC_Gestao_Educacional_Orientada_por_Dados_Apresentacao.pdf)
+
+**Gestão educacional orientada por dados: um estudo sobre o uso de Business Intelligence na tomada de decisões da rede estadual paulista.** Apresentação acadêmica com objetivos, metodologia, resultados e recomendações do estudo, que contou com 45 participações voluntárias de profissionais da rede estadual.
+
+**Autores:** Daniel José dos Passos Assis, Emerson Novais Silva, George Toshio Shimabukuro, Geovani Trento Ferreira, Kelvin Alexandre Ferreira de Sousa, Nicole Malachias Nacarato, Wellington de Melo Valadares e Zuleica Morais Firmino. **Orientadora:** Esp. Aline Andreaça dos Santos.
+
 ### Visão computacional — detecção de placas
 [Repositório do Grupo C — Arte dos Dados](https://github.com/zuleikcamorais/visao-computacional-placas-grupo-c).
 
