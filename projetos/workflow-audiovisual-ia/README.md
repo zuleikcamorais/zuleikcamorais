@@ -33,6 +33,8 @@ Para incluir a reprodução, editar este README pela interface web do GitHub, an
 <!-- Inserir aqui o anexo do vídeo 2 após o upload no GitHub. -->
 <!-- Inserir aqui o anexo do vídeo 3 após o upload no GitHub. -->
 
+https://drive.google.com/file/d/1dno7bjhLn12JHTyw36E7_jP_sDLxLfnK/view?usp=drivesdk
+
 ## Workflow de produção
 
 O fluxo compreendeu **cinco etapas em quatro plataformas**, com o Gemini utilizado em duas etapas. A passagem entre ferramentas foi conduzida manualmente pelas interfaces. Não há execução automatizada ou integração por API documentada.
