@@ -29,6 +29,18 @@ Os três ARIs foram construídos em atividades da formação Alura/ONE. A docume
 | **ARI Deal** | Assistente para propostas e orçamentos em simulação comercial no ChatGPT Work. | [Ver projeto](projetos/ari-deal/README.md) |
 | **ARI Flow** | Fluxo de e-mails com Make, Gmail, Google Drive e Gemini. | [Ver projeto](projetos/ari-flow/README.md) |
 
+### Taranis Black — IA aplicada a Finanças e Operações
+
+**Status: relatório executivo concluído | Novembro de 2026.** Projeto de consultoria para uma empresa simulada, desenvolvido no Challenge ONE — Oracle Next Education, em parceria com a Alura.
+
+Analisei o fluxo de pedidos e estruturei três casos de uso de IA: triagem de propostas comerciais, preparação de pareceres de crédito e conferência de dados antes do faturamento e da expedição.
+
+**Entregas:** AI Canvas, Matriz Esforço × Impacto, indicadores de tempo, qualidade e adoção, plano de gestão da mudança, proposta de política corporativa de IA responsável, mapeamento SIPOC e análise de causas com Ishikawa. A recomendação prioritária contempla alçadas de aprovação, com critérios de valor e risco e supervisão humana.
+
+O relatório inclui registros do uso da IA na construção das análises. Os ganhos de tempo e cálculos de ROI são estimativas ilustrativas para validação em pilotos.
+
+[📄 Leia o relatório executivo completo e suas evidências](https://docs.google.com/document/d/1wVgklzglPBPlnJQXwsmya-nzhODAOxMdCJYVH-TcOF0/edit)
+
 ### TCC em BI educacional — UNIVESP
 Trabalho coletivo sobre o uso de Business Intelligence na tomada de decisões da rede estadual paulista. Minha contribuição reuniu levantamento de necessidades da escola, articulação com a gestão, análise de indicadores e revisão e consolidação do trabalho em equipe.
 
@@ -69,9 +81,9 @@ Vínculo com a Secretaria da Educação do Estado de São Paulo desde 2005. A ex
 
 1. **Fase 1 — Agentes de IA para Negócios:** atividades concluídas com os projetos ARI News, ARI Deal e ARI Flow.
 2. **Fase 2 — Trilhas concluídas:** Mindset e Estratégia; Dados para Negócios; Governança, Risco e Ética.
-3. **Fase 3 — Business AI Builder:** **IA para Finanças e Operações concluído em novembro de 2026**; challenge prático em desenvolvimento.
+3. **Fase 3 — Business AI Builder:** **IA para Finanças e Operações concluído em novembro de 2026**; relatório executivo do **Challenge Taranis Black concluído**.
 
-O challenge de IA para negócios utiliza uma empresa simulada e contempla diagnóstico, AI Canvas, matriz esforço × impacto, governança e proposta para Finanças e Operações em relatório executivo. É um projeto em desenvolvimento, separado dos três ARIs já construídos.
+O Challenge Taranis Black utiliza uma empresa simulada e reúne diagnóstico, AI Canvas, Matriz Esforço × Impacto, governança, SIPOC, Ishikawa e recomendações para Finanças e Operações. O relatório final está disponível na seção de projetos acima e constitui uma entrega própria, além dos três ARIs.
 
 ## Google Cloud
 **Google Cloud Computing Foundations:** trilha de aprendizagem concluída e quatro skill badges. Formação separada do programa Alura/Oracle ONE.
@@ -97,4 +109,4 @@ Planejamento estratégico, gestão de projetos e operações, dados para decisã
 
 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/)
 
-Atualizado em 8 de novembro de 2026.
+Atualizado em 9 de novembro de 2026.
