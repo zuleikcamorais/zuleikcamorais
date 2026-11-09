@@ -41,6 +41,16 @@ O relatório inclui registros do uso da IA na construção das análises. Os gan
 
 [📄 Leia o relatório executivo completo e suas evidências](https://docs.google.com/document/d/1wVgklzglPBPlnJQXwsmya-nzhODAOxMdCJYVH-TcOF0/edit)
 
+### Criação audiovisual com IA generativa — workflow e engenharia de prompts
+
+Projeto experimental inspirado em um vídeo viral de referência, com minha própria imagem em versões visuais associadas a diferentes países. O processo reúne análise e geração de imagens no **Gemini**, animação no **Meta AI**, edição no **CapCut** e finalização no **Instagram**.
+
+A documentação apresenta o fluxo em cinco etapas, minha contribuição, exemplos didáticos de prompts, critérios para revisão e os três vídeos publicados no Instagram. Os arquivos de vídeo serão anexados posteriormente ao README do projeto.
+
+[Conheça o estudo de caso e assista às demonstrações](projetos/workflow-audiovisual-ia/README.md)
+
+
+
 ### TCC em BI educacional — UNIVESP
 Trabalho coletivo sobre o uso de Business Intelligence na tomada de decisões da rede estadual paulista. Minha contribuição reuniu levantamento de necessidades da escola, articulação com a gestão, análise de indicadores e revisão e consolidação do trabalho em equipe.
 
