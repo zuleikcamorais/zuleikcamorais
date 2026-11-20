@@ -14,6 +14,12 @@ O Headhunter AI é uma iniciativa que criei para compartilhar com outras mulhere
 
 Usei o ChatGPT Work para a análise e a execução assistida no navegador e o CapCut para editar a gravação da demonstração. O portal da Fundação Bradesco confirmou o recebimento da candidatura.
 
+## Vídeo da demonstração
+
+Mostro como usei o ChatGPT Work para analisar uma vaga da Fundação Bradesco. O vídeo reúne trechos da análise e mostra a confirmação de que a candidatura foi recebida pelo portal.
+
+[Assista à demonstração da candidatura](lv_0_20261120132454.mp4)
+
 ## Como adaptar o fluxo
 
 1. Forneça ao assistente o anúncio da vaga e uma versão atualizada do currículo.
