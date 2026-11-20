@@ -9,6 +9,12 @@ Desenvolvi projetos práticos com IA para pesquisa de notícias, propostas comer
 
 ## Projetos de IA em destaque
 
+### Headhunter AI — candidatura assistida por IA
+
+Estudo de caso de uma candidatura real à Fundação Bradesco com apoio do ChatGPT Work. Documentei a análise da vaga, minha autorização para usar o currículo e avançar nas etapas do formulário, e a confirmação de recebimento no portal.
+
+[Leia o estudo de caso](projetos/headhunter-ai/README.md)
+
 ### 🏆 Repô — equipe campeã do Meetup Challenge da {reprograma}
 
 Bibliotecária digital com IA para apoiar alunas e egressas na consulta, revisão e aplicação dos conteúdos da formação. Projeto coletivo apresentado em **7 de novembro de 2026**, com experiência de consulta e prática com feedback em um **protótipo demonstrativo com dados fictícios**.
