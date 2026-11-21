@@ -118,11 +118,11 @@ O Challenge Taranis Black utiliza uma empresa simulada e reúne diagnóstico, AI
 | Google Workspace e Canva | Organização de informações e produção de materiais |
 
 ## Interesses profissionais
-Planejamento estratégico, gestão de projetos e operações, dados para decisão, governança e impacto social. Interesse na residência corporativa **AI Builder**, com **Planejamento Estratégico** como primeira área e **Diversidade e Impacto Social** como segunda.
+Planejamento estratégico, gestão de projetos e operações, dados para decisão, governança e impacto social. Interesse em **hackathons de IA e dados** para desenvolver protótipos em equipes multidisciplinares.
 
 **Disponibilidade:** 30 horas semanais, 6 horas por dia.  
 **Idiomas:** português nativo; inglês EF SET C1 geral, com expressão oral B1.
 
 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/zuleica-morais-firmino-117b3319/)
 
-Atualizado em 9 de novembro de 2026.
+Atualizado em 21 de novembro de 2026.
